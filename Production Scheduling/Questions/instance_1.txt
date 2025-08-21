@@ -1,0 +1,13 @@
+10	nPeriods
+150	2	Production_P_p
+20	1	Inventory_H_h
+13	80	dt_ct
+43	90	dt_ct
+46	56	dt_ct
+47	88	dt_ct
+31	64	dt_ct
+23	99	dt_ct
+41	58	dt_ct
+45	80	dt_ct
+36	53	dt_ct
+23	88	dt_ct
